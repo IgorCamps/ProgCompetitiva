@@ -1,1 +1,1 @@
-# ProgCompetitiva
+# Programação Competitiva
