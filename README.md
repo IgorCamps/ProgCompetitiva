@@ -1,1 +1,1 @@
-"# ProgCompetitiva" 
+# ProgCompetitiva
